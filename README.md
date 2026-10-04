@@ -2,7 +2,7 @@
 
 A collection of AI projects and experiments, written mainly in Python.
 
-> **Status:** Early setup. No projects have been added yet.
+> **Status:** One project so far. See the table at the bottom.
 
 ## Repository layout
 
@@ -63,4 +63,4 @@ ANTHROPIC_API_KEY=your-key-here
 
 | Project | Description | Status |
 | ------- | ----------- | ------ |
-| _None yet_ | | |
+| [projectile-ml](projectile-ml/) | Simulates projectiles with air resistance (RK4) and trains a neural network to predict their range | In progress |
